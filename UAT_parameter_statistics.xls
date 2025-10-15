@@ -1,0 +1,6 @@
+Parameter,Mean,Std,Unit
+H0,73.02,0.82,km/s/Mpc
+k_early,0.967,0.012,
+omega_b,0.02242,0.00015,
+omega_cdm,0.1198,0.0015,
+r_d,141.2,1.1,Mpc
